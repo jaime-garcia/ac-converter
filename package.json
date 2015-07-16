@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaime-garcia/ac-converter/issues"
   },
-  "homepage": "https://github.com/jaime-garcia/ac-converter#readme"
+  "homepage": "https://github.com/jaime-garcia/ac-converter#readme",
+  "devDependencies": {
+    "markdown-pdf": "^5.3.0"
+  }
 }
